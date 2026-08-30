@@ -1,5 +1,5 @@
 # Sistema de Gestão e Agendamento para Inspeção Veicular
-## Projeto desenvolvido para a UC de **Projeto e Engenharia de Software** e com o objetivo de criar uma solução para auxiliar no agendamento e gerenciamento de serviços de uma empresa de inspeção veicular.
+### Projeto desenvolvido para a UC de **Projeto e Engenharia de Software** e com o objetivo de criar uma solução para auxiliar no agendamento e gerenciamento de serviços de uma empresa de inspeção veicular.
 
 ## **Sobre o Projeto**
 
@@ -16,9 +16,9 @@ Facilitar o processo de agendamento de inspeções veiculares e proporcionar uma
 
 ## Equipe
 
-* 1. **Gabriel Ângelo**
+1. **Gabriel Ângelo**
 
-## Papéis no Scrum
+## Funções no Scrum
 
 * **Product Owner:** Gabriel Ângelo
 * **Scrum Master:** Gabriel Ângelo
