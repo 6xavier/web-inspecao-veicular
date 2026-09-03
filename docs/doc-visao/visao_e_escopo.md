@@ -5,7 +5,11 @@
 **Nome do Projeto:** Sistema de Gestão e Agendamento para Inspeção Veicular
 
 **Equipe:**
-- Gabriel Ângelo
+ - Gabriel Ângelo
+ - Allyson Magno
+ - Luiz Freire
+ - Angelo Magno
+
 
 **Data da Última Atualização:** 30/08/2026
 
