@@ -21,7 +21,7 @@ Facilitar o processo de agendamento de inspeções veiculares e proporcionar uma
 ## Funções no Scrum
 
 * **Product Owner:** Gabriel Ângelo
-* **Scrum Master:** Gabriel Ângelo
-* **Dev:** Gbriel Ângelo
+* **Scrum Master:** Allyson Magno
+* **Dev's:** Angelo Magno e Luiz Freire
 
  > Os papéis poderão ser ajustados ao longo do desenvolvimento conforme as necessidades da equipe.
