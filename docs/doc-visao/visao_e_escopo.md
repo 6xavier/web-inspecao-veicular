@@ -53,7 +53,7 @@ administrativa destinada aos gestores, permitindo o gerenciamento dos agendament
 
 ## 4. Escopo do Projeto
 
-Nas futuras versões, o sistema deverá comtemplar as seguintes funcionalidades:
+Nas futuras versões, o sistema deverá contemplar as seguintes funcionalidades:
 
 ### Área do Cliente
 
